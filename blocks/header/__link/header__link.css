@@ -1,5 +1,8 @@
-.header__link {
-  color: #2e81ed;
-  text-decoration: none;
+.header__main-llustration {
+  position: absolute;
+  width: 765px;
+  height: 608px;
+  right: 0;
+  bottom: 0;
   z-index: 3;
 }
