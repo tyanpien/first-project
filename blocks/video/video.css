@@ -1,3 +1,6 @@
 .video {
-    margin: 100px auto 0;
+  display: flex;
+  align-items: center;
+  flex-flow: column nowrap;
+  padding-top: 100px;
 }
