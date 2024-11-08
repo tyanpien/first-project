@@ -1,0 +1,15 @@
+.lead{
+    max-width: 984px;
+    margin: 0 auto;
+    margin-top: 54px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+@media screen and (max-width: 1024px){
+    .lead{
+        margin-top: 48px;
+        max-width: 100%;
+    }
+}
