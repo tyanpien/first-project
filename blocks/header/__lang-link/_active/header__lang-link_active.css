@@ -1,0 +1,14 @@
+.header__lang-link_active{
+    border-bottom: 2px solid #fff;
+    height: 28px;
+}
+.header__lang-link:last-child {
+    margin: 0;
+  }
+
+@media screen and (max-width:767px) {
+    .header__lang-link_active{
+        border-bottom: 2px solid #fff;
+        height: 20px;
+    }
+}
