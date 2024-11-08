@@ -1,0 +1,12 @@
+.intro{
+    max-width: 984px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+@media screen and (max-width: 1024px){
+    .intro {
+        max-width: 100%;
+}
+}
