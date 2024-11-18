@@ -1,3 +1,9 @@
-.cover{
-    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+.cover {
+  padding: 92px 0;
+}
+
+@media (max-width: 767px) {
+  .cover {
+    padding: 64px 0;
+  }
 }
