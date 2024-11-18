@@ -10,3 +10,4 @@
 3. Разработка с помощью Figma
 
 
+Git Pages: https://tyanpien.github.io/first-project/
