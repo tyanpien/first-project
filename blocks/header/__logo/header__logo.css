@@ -5,10 +5,9 @@
     object-fit: cover;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 320px) {
     .header__logo {
         width: 142px;
         height: 42px;
-        opacity: 0.67;
     }
 }
