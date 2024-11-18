@@ -1,26 +1,3 @@
-.footer{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
-    padding: 0 48px;
-    box-sizing: border-box;
-    margin-top: 92px;
-}
-
-@media screen and (max-width: 1023) {
-    .footer{
-        margin-left: 60px;
-        margin-top: 88px;
-    }
-}
-
-@media screen and (max-width: 767px){
-    .footer {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0 0 0 16px;
-    margin-top: 64px;
-}
+.footer {
+  padding-bottom: 24px;
 }
