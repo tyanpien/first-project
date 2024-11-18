@@ -1,15 +1,17 @@
-.place__paragraph{
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 1.63;
-    margin: 0;
+.place__paragraph {
+    margin-bottom: 27px;
 }
 
-@media screen and (max-width: 984px){
-    .place__paragraph{
-        font-size: 16px;
-    }
+.place__paragraph:nth-child(2n) {
+    margin-bottom: 26px;
 }
-.place__paragraph:nth-of-type(2n){
-    margin: 26px 0 0;
+
+.place__paragraph:last-child {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 1023px) {
+    .place__paragraph {
+        margin-bottom: 25px;
+    }
 }
