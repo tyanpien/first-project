@@ -1,5 +1,22 @@
-.places{
-    display: flex;
-    flex-direction: column;
-    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+.places {
+    margin-top: 92px;
+    padding: 0 48px;
+}
+
+@media screen and (max-width: 1023px) {
+    .places {
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .places {
+        padding: 0;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .places {
+        padding: 0 148px;
+    }
 }
