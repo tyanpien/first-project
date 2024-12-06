@@ -12,6 +12,6 @@
 <li>html</li>
 <li>css</li>
 <li>javascript</li>
-<li>Webpack</li>
-<li>Babel</li>
-<li>Postcss</li>
+<li>webpack</li>
+<li>babel</li>
+<li>postcss</li>
