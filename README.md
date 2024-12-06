@@ -6,8 +6,12 @@
 <li>Добавление, просмотр и удаление постов</li>
 <li>Редактирование профиля</li>
 <li>Cтавить лайки</li>
+<li>Валидация форм</li>
 
 <h2>Стэк</h2>
 <li>html</li>
 <li>css</li>
 <li>javascript</li>
+<li>Webpack</li>
+<li>Babel</li>
+<li>Postcss</li>
