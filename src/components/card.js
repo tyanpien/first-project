@@ -10,7 +10,7 @@ function createCard(name, link, alt, imagePopup, imageInPopup, imageInPopupCapti
 
     const cardLike = card.querySelector('.card__like-button');
     cardLike.addEventListener('click', (e) => e.target.classList.toggle('card__like-button_is-active'));
-    
+
     const cardImage = card.querySelector('.card__image');
     cardImage.addEventListener('click', (e) => {
         openModal(imagePopup, null);
@@ -21,8 +21,9 @@ function createCard(name, link, alt, imagePopup, imageInPopup, imageInPopupCapti
 
     const cardDelete = card.querySelector('.card__delete-button');
     cardDelete.addEventListener('click', (e) => e.target.closest('.card').remove());
-    
+
     return card;
 }
+
 
 export {createCard}
