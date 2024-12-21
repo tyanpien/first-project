@@ -1,11 +1,11 @@
 {
   "name": "frontend-project",
   "version": "1.0.0",
-  "description": "***Description***\r The project is made with JavaScript.",
+  "description": " ",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production",
     "dev": "webpack serve",
+    "build": "webpack --mode production",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
