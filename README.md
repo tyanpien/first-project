@@ -11,9 +11,9 @@
 
 
 <h2>Стэк</h2>
-1. HTML5
-2. CSS
-3. JavaScript
-4. Webpack
-5. Babel
-6. postcss
+<li>html</li>
+<li>css</li>
+<li>javascript</li>
+<li>webpack</li>
+<li>babel</li>
+<li>postcss</li>
