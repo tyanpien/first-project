@@ -1,16 +1,16 @@
-# Проектная работа Mesto (Project work Mesto)
+<h1>Проектная работа Mesto</h1>
 
-***Description***
-The project is made with JavaScript.
+<h2>Описание</h2>
+Нам дан уже свёрстанный сайт, в котором не хватает JS кода, поэтому мы его дописываем.
 
-***Functionality***
-1. Adding cards
-2. Removing cards
-3. Editing profile
-4. Viewing card images
-5. "Likes"
+<h2>Функционал</h2>
+<li>Добавление, просмотр и удаление постов</li>
+<li>Редактирование профиля</li>
+<li>Cтавить лайки</li>
+<li>Валидация форм</li>
 
-***Technologies***
+
+<h2>Стэк</h2>
 1. HTML5
 2. CSS
 3. JavaScript
